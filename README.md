@@ -14,6 +14,8 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 ## 📈 Estatísticas visuais
 
 [![wakatime](https://wakatime.com/badge/user/8103867c-b081-4ac7-9bb7-da8b6194828f.svg)](https://wakatime.com/@8103867c-b081-4ac7-9bb7-da8b6194828f) 
+.. image:: https://wakatime.com/share/@SandrinLeth/55eed8b0-46e4-42fd-94e1-465fd0edf374.png
+    :target: https://wakatime.com/
 
 
 ---
