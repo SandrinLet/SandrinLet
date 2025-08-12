@@ -10,7 +10,6 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
 
 ## 📈 Estatísticas visuais
 
