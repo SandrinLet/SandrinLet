@@ -7,4 +7,5 @@ Estudando programação e juntando com estrátegias de comunicação.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Wakatime stats]
+[![Wakatime status]
+(https://github-readme-stats.vercel.app/api/wakatime?SandrinLet)](https://github.com/anuraghazra/github-readme-stats)
