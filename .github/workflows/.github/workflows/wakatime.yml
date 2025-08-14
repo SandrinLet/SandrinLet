@@ -2,8 +2,8 @@ name: Update WakaTime stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # roda a cada hora
-  workflow_dispatch:     # permite execução manual
+    - cron: '0 * * * *'  # roda a cada hora
+  workflow_dispatch:      # permite execução manual
 
 jobs:
   update-readme:
@@ -16,5 +16,5 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_PERSONAL_GITHUB_TOKEN }}
 
