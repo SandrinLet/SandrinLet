@@ -19,7 +19,7 @@ jobs:
       - name: Run Waka Readme Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Corrigido
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: "waka-readme-stats"
           SHOW_OS: "true"
@@ -38,8 +38,8 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "true"
           COMMIT_BY_ME: "true"
           COMMIT_MESSAGE: "Update Waka Readme Stats"
-          COMMIT_USERNAME: "SandrinLet" # Seu nome de usuário no GitHub
-          COMMIT_EMAIL: "sandrinlet@users.noreply.github.com" # E-mail privado do GitHub
+          COMMIT_USERNAME: "SandrinLet"          
+          COMMIT_EMAIL: " 222742637+SandrinLet@users.noreply.github.com"  
           LOCALE: "en"
           UPDATED_DATE_FORMAT: "MMM Do, YYYY"
 
