@@ -39,7 +39,7 @@ jobs:
           COMMIT_BY_ME: "true"
           COMMIT_MESSAGE: "Update Waka Readme Stats"
           COMMIT_USERNAME: "SandrinLet"          
-          COMMIT_EMAIL: " 222742637+SandrinLet@users.noreply.github.com"  
+          COMMIT_EMAIL: "222742637+SandrinLet@users.noreply.github.com"  
           LOCALE: "en"
           UPDATED_DATE_FORMAT: "MMM Do, YYYY"
 
