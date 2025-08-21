@@ -5,7 +5,7 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 
 ---
 
-### 📊 Weekly development breakdown
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
