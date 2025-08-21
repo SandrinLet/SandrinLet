@@ -6,6 +6,7 @@ on:
       - main
   schedule:
     - cron: '0 0 * * *' # roda todo dia à meia-noite (UTC)
+  workflow_dispatch: # permite rodar manualmente
 
 jobs:
   update-readme:
@@ -18,8 +19,8 @@ jobs:
       - name: Run Waka Readme Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Se você usa WakaTime
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Corrigido
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: "waka-readme-stats"
           SHOW_OS: "true"
           SHOW_PROJECTS: "true"
@@ -37,10 +38,11 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "true"
           COMMIT_BY_ME: "true"
           COMMIT_MESSAGE: "Update Waka Readme Stats"
-          COMMIT_USERNAME: "your-github-username"
-          COMMIT_EMAIL: "your-email@example.com"
+          COMMIT_USERNAME: "SandrinLet" # Seu nome de usuário no GitHub
+          COMMIT_EMAIL: "sandrinlet@users.noreply.github.com" # E-mail privado do GitHub
           LOCALE: "en"
           UPDATED_DATE_FORMAT: "MMM Do, YYYY"
+
 
 
 
