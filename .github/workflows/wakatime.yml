@@ -1,47 +1,28 @@
-name: Waka Readme Stats Update
+with:
+  gh_token: ${{ secrets.GH_TOKEN }}
+  wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
+  section_name: "waka-readme-stats"
+  show_os: "true"
+  show_projects: "true"
+  show_editors: "true"
+  show_timezone: "true"
+  show_commit: "true"
+  show_language: "true"
+  show_lines_of_code: "true"
+  show_language_per_repo: "true"
+  show_loc_chart: "true"
+  show_days_of_week: "true"
+  show_profile_views: "true"
+  show_short_info: "true"
+  show_updated_date: "true"
+  show_total_code_time: "true"
+  commit_by_me: "true"
+  commit_message: "Update Waka Readme Stats"
+  commit_username: "SandrinLet"
+  commit_email: "222742637+SandrinLet@users.noreply.github.com"
+  locale: "en"
+  updated_date_format: "MMM Do, YYYY"
 
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '0 0 * * *' # roda todo dia à meia-noite (UTC)
-  workflow_dispatch: # permite rodar manualmente
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Run Waka Readme Stats
-        uses: anmol098/waka-readme-stats@master
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: "waka-readme-stats"
-          SHOW_OS: "true"
-          SHOW_PROJECTS: "true"
-          SHOW_EDITORS: "true"
-          SHOW_TIMEZONE: "true"
-          SHOW_COMMIT: "true"
-          SHOW_LANGUAGE: "true"
-          SHOW_LINES_OF_CODE: "true"
-          SHOW_LANGUAGE_PER_REPO: "true"
-          SHOW_LOC_CHART: "true"
-          SHOW_DAYS_OF_WEEK: "true"
-          SHOW_PROFILE_VIEWS: "true"
-          SHOW_SHORT_INFO: "true"
-          SHOW_UPDATED_DATE: "true"
-          SHOW_TOTAL_CODE_TIME: "true"
-          COMMIT_BY_ME: "true"
-          COMMIT_MESSAGE: "Update Waka Readme Stats"
-          COMMIT_USERNAME: "SandrinLet"          
-          COMMIT_EMAIL: "222742637+SandrinLet@users.noreply.github.com"  
-          LOCALE: "en"
-          UPDATED_DATE_FORMAT: "MMM Do, YYYY"
 
 
 
