@@ -14,6 +14,8 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 ## 📈 Estatísticas visuais
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandrinLet&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SandrinLet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![wakatime](https://wakatime.com/badge/user/8103867c-b081-4ac7-9bb7-da8b6194828f.svg)](https://wakatime.com/@8103867c-b081-4ac7-9bb7-da8b6194828f) 
