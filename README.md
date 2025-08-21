@@ -27,7 +27,7 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/let%C3%ADcia-s-ab9b05ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-s-ab9b05ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
 - 🌐 [Minha Agencia] (https://bizanchor.com.br)
 - 📸 [Instagram](https://www.instagram.com/sandrinleticia?igsh=MXQxa2FudTJ2NGM3eA==) 
 
