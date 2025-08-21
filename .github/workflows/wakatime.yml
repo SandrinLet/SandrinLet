@@ -1,27 +1,47 @@
-with:
-  gh_token: ${{ secrets.GH_TOKEN }}
-  wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
-  section_name: "waka-readme-stats"
-  show_os: "true"
-  show_projects: "true"
-  show_editors: "true"
-  show_timezone: "true"
-  show_commit: "true"
-  show_language: "true"
-  show_lines_of_code: "true"
-  show_language_per_repo: "true"
-  show_loc_chart: "true"
-  show_days_of_week: "true"
-  show_profile_views: "true"
-  show_short_info: "true"
-  show_updated_date: "true"
-  show_total_code_time: "true"
-  commit_by_me: "true"
-  commit_message: "Update Waka Readme Stats"
-  commit_username: "SandrinLet"
-  commit_email: "222742637+SandrinLet@users.noreply.github.com"
-  locale: "en"
-  updated_date_format: "MMM Do, YYYY"
+name: Waka Readme Stats Update
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  # todo dia à meia-noite UTC
+  workflow_dispatch:    # permite rodar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Run Waka Readme Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
+          section_name: "waka-readme-stats"
+          show_os: "true"
+          show_projects: "true"
+          show_editors: "true"
+          show_timezone: "true"
+          show_commit: "true"
+          show_language: "true"
+          show_lines_of_code: "true"
+          show_language_per_repo: "true"
+          show_loc_chart: "true"
+          show_days_of_week: "true"
+          show_profile_views: "true"
+          show_short_info: "true"
+          show_updated_date: "true"
+          show_total_code_time: "true"
+          commit_by_me: "true"
+          commit_message: "Update Waka Readme Stats"
+          commit_username: "SandrinLet"
+          commit_email: "222742637+SandrinLet@users.noreply.github.com"
+          locale: "en"
+          updated_date_format: "MMM Do, YYYY"
 
 
 
