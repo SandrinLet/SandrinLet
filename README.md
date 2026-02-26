@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou a Letícia Sandrin!
-
+ 
 Seja bem-vindo(a) ao meu perfil do GitHub! Sou apaixonada por desenvolvimento e sempre buscando aprender mais e melhorar minhas habilidades técnicas.
 Estou unindo meu conhecimento em comunicação em Marketing com programação para criar soluções com estratégia!
 
