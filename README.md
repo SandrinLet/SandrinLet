@@ -7,11 +7,13 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 
 
 
+
+## 📊 Estatísticas
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-## 📊 Estatísticas
 
 | Linguagens mais usadas | Estatísticas do GitHub |
 |------------------------|-------------------------|
