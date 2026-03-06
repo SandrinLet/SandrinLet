@@ -16,8 +16,8 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 
 
 | Linguagens mais usadas | Estatísticas do GitHub |
-|------------------------|-------------------------|
-| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandrinLet&layout=donut&theme=radical&card_width=330)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SandrinLet&show_icons=true&theme=radical&card_width=350)](https://github.com/anuraghazra/github-readme-stats) |
+| ---------------------- | ---------------------- |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandrinLet&layout=donut&theme=radical" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandrinLet&show_icons=true&theme=radical" /> |
 
 
 
