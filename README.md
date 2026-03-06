@@ -8,8 +8,10 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 
 
 
-## 📊 Estatísticas
 
+
+
+## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
