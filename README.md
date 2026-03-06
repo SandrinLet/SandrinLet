@@ -14,15 +14,13 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-| Linguagens mais usadas | Estatísticas do GitHub |
-| ---------------------- | ---------------------- |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandrinLet&layout=donut&theme=radical" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandrinLet&show_icons=true&theme=radical" /> |
+### 📊 Minhas Estatísticas
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SandrinLet&show_icons=true&theme=radical)
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SandrinLet&layout=donut&theme=radical)
 
-
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SandrinLet&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Tempo de Código](https://github-readme-stats.vercel.app/api/wakatime?username=SandrinLet&theme=radical)
 
 ---
 
