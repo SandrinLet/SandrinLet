@@ -11,7 +11,7 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 
 
 
-## ⏱ WakaTime Stats
+
 
 ## ⏱ WakaTime Stats
 
