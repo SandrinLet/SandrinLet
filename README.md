@@ -22,8 +22,8 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 
 
 
-[![wakatime](https://wakatime.com/badge/user/8103867c-b081-4ac7-9bb7-da8b6194828f.svg)](https://wakatime.com/@8103867c-b081-4ac7-9bb7-da8b6194828f) 
 
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SandrinLet&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
