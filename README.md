@@ -21,13 +21,14 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 | ---------------------- | ---------------------- |
 
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandrinLet&layout=donut&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SandrinLet&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandrinLet&layout=donut&theme=radical&v=1" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SandrinLet&show_icons=true&theme=radical&v=1" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SandrinLeth&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SandrinLeth&theme=radical&v=1" />
 </p>
 
 ![Tempo de Código](https://github-readme-stats.vercel.app/api/wakatime?username=SandrinLeth&theme=radical)
