@@ -15,11 +15,11 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 <!--END_SECTION:waka-->
 
 
-### 📊 Minhas Estatísticas
+
 
 | Linguagens mais usadas | Estatísticas do GitHub |
 | ---------------------- | ---------------------- |
-### 📊 Estatísticas
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandrinLet&layout=donut&theme=radical" height="180px" />
