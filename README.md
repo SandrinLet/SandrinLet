@@ -15,12 +15,15 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 <!--END_SECTION:waka-->
 
 
+### 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SandrinLet&show_icons=true&theme=radical)
+| Linguagens mais usadas | Estatísticas do GitHub |
+| ---------------------- | ---------------------- |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandrinLet&layout=donut&theme=radical" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandrinLet&show_icons=true&theme=radical" /> |
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SandrinLet&layout=donut&theme=radical)
+![Tempo de Código](https://github-readme-stats.vercel.app/api/wakatime?username=SandrinLeth&theme=radical)
 
-![Tempo de Código](https://github-readme-stats.vercel.app/api/wakatime?username=SandrinLet&theme=radical)
+
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-s-ab9b05ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
