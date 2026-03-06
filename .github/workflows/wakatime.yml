@@ -5,8 +5,12 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
+    name: Update WakaTime stats
     runs-on: ubuntu-latest
 
     steps:
@@ -14,7 +18,7 @@ jobs:
 
       - uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
 
