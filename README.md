@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou  Letícia Sandrin!
+# 👋 Olá, eu sou  Letícia Sandrin! #
 
 <sub> Metade comunicadora, metade desenvolvedora, 100% apaixonada por tecnologia! Estudo Relações Públicas, desenvolvo soluções e ministro aulas de lógica de programação e programação web para jovens e crianças. Buscando aprender mais e melhorar minhas habilidades técnicas, estou unindo meu conhecimento em comunicação e Marketing com programação para criar soluções com estratégia! </sub>
 ---
