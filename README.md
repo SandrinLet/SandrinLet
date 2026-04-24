@@ -16,6 +16,38 @@ Estou unindo meu conhecimento em comunicação em Marketing com programação pa
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2053%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 31 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I Mostly Code in C#** 
+
+```text
+C#                       6 repos             ███████████████████░░░░░░   75.00 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Jupyter Notebook         1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SandrinLet/SandrinLet/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/04/2026 12:02:43 UTC
 <!--END_SECTION:waka-->
 
 
