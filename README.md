@@ -1,17 +1,9 @@
 # 👋 Olá, eu sou a Letícia Sandrin!
  
-Seja bem-vindo(a) ao meu perfil do GitHub! Sou apaixonada por desenvolvimento e sempre buscando aprender mais e melhorar minhas habilidades técnicas.
-Estou unindo meu conhecimento em comunicação em Marketing com programação para criar soluções com estratégia!
-
+Metade comunicadora, metade desenvolvedora, 100% apaixonada por tecnologia!
+Estudo relações Publicas, desenvolvo soluções e ministro aulas de lógica de programção e programação web para jovens e crianças.
+Buscando aprender mais e melhorar minhas habilidades técnicas, estou unindo meu conhecimento em comunicação em Marketing com programação para criar soluções com estratégia!
 ---
-
-
-
-
-
-
-
-
 
 ## ⏱ WakaTime Stats
 
@@ -89,11 +81,6 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
  Last Updated on 24/04/2026 13:22:28 UTC
 <!--END_SECTION:waka-->
 
-
-
-
-| Linguagens mais usadas | Estatísticas do GitHub |
-| ---------------------- | ---------------------- |
 
 
 ![Tempo de Código](https://github-readme-stats.vercel.app/api/wakatime?username=SandrinLeth&theme=radical)
