@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 1.5 kB Used in GitHub's Storage 
+> 📦 1.4 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2026
  > 
@@ -77,7 +77,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SandrinLet/SandrinLet/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 15:41:45 UTC
+ Last Updated on 28/05/2026 03:31:02 UTC
 <!--END_SECTION:waka-->
 
 
