@@ -7,6 +7,8 @@
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2053%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -21,45 +23,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1346 commits        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-🌆 Daytime                849 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-🌃 Evening                1354 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-🌙 Night                  3191 commits        ████████████░░░░░░░░░░░░░   47.34 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   792 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Tuesday                  335 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Wednesday                311 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Thursday                 544 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Friday                   2639 commits        ██████████░░░░░░░░░░░░░░░   39.15 % 
-Saturday                 649 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Sunday                   1470 commits        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -75,7 +38,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SandrinLet/SandrinLet/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:34:55 UTC
+ Last Updated on 24/07/2026 13:43:52 UTC
 <!--END_SECTION:waka-->
 
 
